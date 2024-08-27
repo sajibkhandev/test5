@@ -6,6 +6,7 @@ import Shopex from '../components/Shopex'
 import Trending from '../components/Trending'
 import TrendingProducts from '../components/TrendingProducts'
 import Discount from '../components/Discount'
+import TopCategories from '../components/TopCategories'
 import Get from '../components/Get'
 import LatestBlog from '../components/LatestBlog'
 
